@@ -1,11 +1,21 @@
-9680
+9679
+69C:\Users\GComp.ge\Desktop\forkify\node_modules\source-map\lib\util.js133342399127482968 0
+83C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\config-default\test\.babelrc133342399125252961 0
+63C:\Users\GComp.ge\Desktop\forkify\node_modules\posthtml\license133342399125172972 0
+69C:\Users\GComp.ge\Desktop\forkify\node_modules\js-tokens\package.json133342399125142961 0
+75C:\Users\GComp.ge\Desktop\forkify\node_modules\electron-to-chromium\LICENSE133342398659447102 0
+56C:\Users\GComp.ge\Desktop\forkify\node_modules\callsites133342399125922958 1
+37C:\Users\GComp.ge\Desktop\forkify\src133342369773179889 1
+76C:\Users\GComp.ge\Desktop\forkify\node_modules\@swc\helpers\src\_extends.mjs133342399134802958 0
+80C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\instance\flat-map.js133342398671881084 0
+45C:\Users\GComp.ge\Desktop\forkify\.prettierrc132886955210000000 0
 72C:\Users\GComp.ge\Desktop\forkify\node_modules\svgo\plugins\prefixIds.js133342399129032976 0
 85C:\Users\GComp.ge\Desktop\forkify\node_modules\csso\lib\restructure\7-mergeRuleset.js133342399129532972 0
 53C:\Users\GComp.ge\Desktop\forkify\src\img\favicon.png132886955210000000 0
 76C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\stable\reflect\get.js133342398672991092 0
 67C:\Users\GComp.ge\Desktop\forkify\node_modules\yallist\package.json133342398659997102 0
 85C:\Users\GComp.ge\Desktop\forkify\node_modules\type-fest\source\iterable-element.d.ts133342399127812971 0
-46C:\Users\GComp.ge\Desktop\forkify\package.json133342399167498179 0
+46C:\Users\GComp.ge\Desktop\forkify\package.json133342419007401158 0
 84C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\stable\instance\to-spliced.js133342398680921082 0
 102C:\Users\GComp.ge\Desktop\forkify\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133342398661811417 0
 71C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\internals\uid.js133342398681600427 0
@@ -30,7 +40,7 @@
 96C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133342399127452959 0
 88C:\Users\GComp.ge\Desktop\forkify\node_modules\electron-to-chromium\chromium-versions.js133342398659677100 0
 73C:\Users\GComp.ge\Desktop\forkify\node_modules\mdn-data\css\syntaxes.json133342399128372971 0
-38C:\Users\GComp.ge\Desktop\forkify\dist133342399624017506 1
+38C:\Users\GComp.ge\Desktop\forkify\dist133342602845992592 1
 73C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\map\update.js133342398681850426 0
 93C:\Users\GComp.ge\Desktop\forkify\node_modules\caniuse-lite\data\features\addeventlistener.js133342398661058586 0
 61C:\Users\GComp.ge\Desktop\forkify\node_modules\posthtml\types133342399126222976 1
@@ -50,20 +60,6 @@
 81C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\es\symbol\to-string-tag.js133342398680971084 0
 56C:\Users\GComp.ge\Desktop\forkify\node_modules\path-type133342399125932972 1
 60C:\Users\GComp.ge\Desktop\forkify\node_modules\css-tree\dist133342399133472974 1
-77C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\array\flat-map.js133342398671871089 0
-124C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133342399131492971 0
-44C:\Users\GComp.ge\Desktop\forkify\.gitignore133342369906219376 0
-69C:\Users\GComp.ge\Desktop\forkify\node_modules\semver\functions\eq.js133342398661541420 0
-69C:\Users\GComp.ge\Desktop\forkify\node_modules\source-map\lib\util.js133342399127482968 0
-83C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\config-default\test\.babelrc133342399125252961 0
-63C:\Users\GComp.ge\Desktop\forkify\node_modules\posthtml\license133342399125172972 0
-69C:\Users\GComp.ge\Desktop\forkify\node_modules\js-tokens\package.json133342399125142961 0
-75C:\Users\GComp.ge\Desktop\forkify\node_modules\electron-to-chromium\LICENSE133342398659447102 0
-56C:\Users\GComp.ge\Desktop\forkify\node_modules\callsites133342399125922958 1
-37C:\Users\GComp.ge\Desktop\forkify\src133342369773179889 1
-76C:\Users\GComp.ge\Desktop\forkify\node_modules\@swc\helpers\src\_extends.mjs133342399134802958 0
-80C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\instance\flat-map.js133342398671881084 0
-45C:\Users\GComp.ge\Desktop\forkify\.prettierrc132886955210000000 0
 63C:\Users\GComp.ge\Desktop\forkify\node_modules\tslib\tslib.d.ts133342399127182971 0
 75C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\set-interval.js133342398678621090 0
 94C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\watcher\src\shared\BruteForceBackend.hh133342398662021407 0
@@ -737,7 +733,7 @@
 73C:\Users\GComp.ge\Desktop\forkify\node_modules\term-size\vendor\.DS_Store133342399125252961 0
 75C:\Users\GComp.ge\Desktop\forkify\node_modules\posthtml-parser\package.json133342399126032974 0
 82C:\Users\GComp.ge\Desktop\forkify\node_modules\css-tree\cjs\syntax\scope\index.cjs133342399130342974 0
-57C:\Users\GComp.ge\Desktop\forkify\dist\icons.c14567a0.svg133342399622487501 0
+57C:\Users\GComp.ge\Desktop\forkify\dist\icons.c14567a0.svg133342602842747087 0
 93C:\Users\GComp.ge\Desktop\forkify\node_modules\node-gyp-build-optional-packages\build-test.js133342398659827100 0
 79C:\Users\GComp.ge\Desktop\forkify\node_modules\css-select\lib\esm\sort.d.ts.map133342399129782958 0
 77C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\features\json\index.js133342398674141100 0
@@ -1636,6 +1632,7 @@
 74C:\Users\GComp.ge\Desktop\forkify\node_modules\htmlnano\docs\versions.json133342399129452970 0
 83C:\Users\GComp.ge\Desktop\forkify\node_modules\csso\node_modules\css-tree\README.md133342399133452966 0
 69C:\Users\GComp.ge\Desktop\forkify\node_modules\svgo\lib\svgo\tools.js133342399130492963 0
+73C:\Users\GComp.ge\Desktop\forkify\node_modules\sass\types\value\list.d.ts133342398664511081 0
 80C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\modules\es.regexp.exec.js133342398668621088 0
 105C:\Users\GComp.ge\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Parentheses.cjs133342399130732963 0
 87C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\array\virtual\find-index.js133342398671411089 0
@@ -1816,6 +1813,7 @@
 94C:\Users\GComp.ge\Desktop\forkify\node_modules\posthtml\node_modules\posthtml-parser\readme.md133342399126232982 0
 84C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\strike.js133342398679641079 0
 74C:\Users\GComp.ge\Desktop\forkify\node_modules\semver\functions\compare.js133342398661086050 0
+69C:\Users\GComp.ge\Desktop\forkify\node_modules\semver\functions\eq.js133342398661541420 0
 70C:\Users\GComp.ge\Desktop\forkify\node_modules\semver\functions\lte.js133342398662051419 0
 101C:\Users\GComp.ge\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\config\lexer.cjs133342399130342974 0
 118C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Raw.js133342399131442974 0
@@ -1892,7 +1890,6 @@
 61C:\Users\GComp.ge\Desktop\forkify\node_modules\domhandler\lib133342399126752975 1
 79C:\Users\GComp.ge\Desktop\forkify\node_modules\nth-check\lib\esm\compile.js.map133342399127182971 0
 70C:\Users\GComp.ge\Desktop\forkify\node_modules\is-binary-path\index.js133342398659837101 0
-73C:\Users\GComp.ge\Desktop\forkify\node_modules\sass\types\value\list.d.ts133342398664511081 0
 99C:\Users\GComp.ge\Desktop\forkify\node_modules\lmdb\node_modules\msgpackr\dist\index-no-eval.min.js133342398661247895 0
 72C:\Users\GComp.ge\Desktop\forkify\node_modules\sass\types\value\map.d.ts133342398664521083 0
 78C:\Users\GComp.ge\Desktop\forkify\node_modules\caniuse-lite\data\regions\SM.js133342398669751077 0
@@ -2040,7 +2037,7 @@
 134C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\processSelector.js133342399129252968 0
 76C:\Users\GComp.ge\Desktop\forkify\node_modules\posthtml-render\dist\index.js133342399125402963 0
 96C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\features\number\virtual\to-exponential.js133342398680331091 0
-57C:\Users\GComp.ge\Desktop\forkify\dist\index.bb84a947.css133342399623977503 0
+57C:\Users\GComp.ge\Desktop\forkify\dist\index.bb84a947.css133342602845952588 0
 90C:\Users\GComp.ge\Desktop\forkify\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133342399130852972 0
 75C:\Users\GComp.ge\Desktop\forkify\node_modules\posthtml-parser\changelog.md133342399126292971 0
 91C:\Users\GComp.ge\Desktop\forkify\node_modules\csso\node_modules\css-tree\cjs\utils\url.cjs133342399131472967 0
@@ -2632,7 +2629,7 @@
 93C:\Users\GComp.ge\Desktop\forkify\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133342398682522013 0
 70C:\Users\GComp.ge\Desktop\forkify\node_modules\lmdb\dist\index.cjs.map133342398665441512 0
 67C:\Users\GComp.ge\Desktop\forkify\node_modules\csso\dist\version.js133342399130932962 0
-56C:\Users\GComp.ge\Desktop\forkify\dist\index.358b6e2c.js133342399623977503 0
+56C:\Users\GComp.ge\Desktop\forkify\dist\index.358b6e2c.js133342602845952588 0
 89C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\modules\esnext.array.to-spliced.js133342398669601088 0
 86C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\trim-end.js133342398681261076 0
 104C:\Users\GComp.ge\Desktop\forkify\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts.map133342399128352963 0
@@ -2668,7 +2665,7 @@
 59C:\Users\GComp.ge\Desktop\forkify\node_modules\lmdb\read.js133342398665141084 0
 106C:\Users\GComp.ge\Desktop\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\ClassSelector.js133342399131752968 0
 68C:\Users\GComp.ge\Desktop\forkify\node_modules\lmdb\rollup.config.js133342398665151093 0
-56C:\Users\GComp.ge\Desktop\forkify\dist\index.80f9aaf9.js133342399623977503 0
+56C:\Users\GComp.ge\Desktop\forkify\dist\index.80f9aaf9.js133342602845952588 0
 84C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\features\typed-array\slice.js133342398678981085 0
 60C:\Users\GComp.ge\Desktop\forkify\node_modules\lmdb\write.js133342398665171092 0
 86C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\typed-array\int16-array.js133342398674631086 0
@@ -6043,6 +6040,7 @@
 76C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\search.js133342398678521080 0
 75C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\small.js133342398679061083 0
 75C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\split.js133342398679441079 0
+82C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\bold.js133342398665561088 0
 83C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\core\src\UncommittedAsset.js133342398665521093 0
 76C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\instance\with.js133342398682326901 0
 81C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\starts-with.js133342398679541089 0
@@ -6055,7 +6053,6 @@
 90C:\Users\GComp.ge\Desktop\forkify\node_modules\caniuse-lite\data\features\queryselector.js133342398669361088 0
 81C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\big.js133342398665351092 0
 83C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\blink.js133342398665511097 0
-82C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\bold.js133342398665561088 0
 87C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\ends-with.js133342398667181090 0
 83C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\string\virtual\fixed.js133342398671781087 0
 80C:\Users\GComp.ge\Desktop\forkify\node_modules\@swc\helpers\_\_apply_decs_2203_r133342399133432968 1
@@ -6330,7 +6327,7 @@
 79C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\function\un-this.js133342398681690421 0
 75C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\date\to-json.js133342398680481087 0
 76C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\function\virtual133342398681700421 1
-49C:\Users\GComp.ge\Desktop\forkify\dist\index.html133342399623977503 0
+49C:\Users\GComp.ge\Desktop\forkify\dist\index.html133342602845952588 0
 84C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\function\virtual\bind.js133342398665421090 0
 91C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\function\virtual\demethodize.js133342398666911090 0
 94C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133342399125422971 0
@@ -6389,6 +6386,7 @@
 96C:\Users\GComp.ge\Desktop\forkify\node_modules\@swc\helpers\_\_class_name_tdz_error\package.json133342399133632965 0
 103C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133342398662783685 0
 75C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\array\filter.js133342398671291091 0
+77C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\array\flat-map.js133342398671871089 0
 83C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\actual\string\starts-with.js133342398679491081 0
 73C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\array\flat.js133342398671931086 0
 73C:\Users\GComp.ge\Desktop\forkify\node_modules\core-js\full\array\from.js133342398672421094 0
@@ -9226,6 +9224,7 @@
 112C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope133342399131752968 1
 123C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\default.js133342399129332969 0
 121C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\index.js133342399130402965 0
+124C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133342399131492971 0
 121C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\value.js133342399131752968 0
 120C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\has.js133342399129732966 0
 92C:\Users\GComp.ge\Desktop\forkify\node_modules\@parcel\core\src\public\MutableBundleGraph.js133342398664721083 0
@@ -9674,8 +9673,8 @@
 60C:\Users\GComp.ge\Desktop\forkify\node_modules\.bin\svgo.cmd133342399166165638 0
 60C:\Users\GComp.ge\Desktop\forkify\node_modules\.bin\svgo.ps1133342399166165638 0
 78C:\Users\GComp.ge\Desktop\forkify\node_modules\.bin\update-browserslist-db.ps1133342398682522013 0
-59C:\Users\GComp.ge\Desktop\forkify\dist\favicon.f98b6865.png133342399621957519 0
-60C:\Users\GComp.ge\Desktop\forkify\dist\index.358b6e2c.js.map133342399624017506 0
-60C:\Users\GComp.ge\Desktop\forkify\dist\index.80f9aaf9.js.map133342399624017506 0
-61C:\Users\GComp.ge\Desktop\forkify\dist\index.bb84a947.css.map133342399624017506 0
-56C:\Users\GComp.ge\Desktop\forkify\dist\logo.8f52e69c.png133342399623467505 0
+59C:\Users\GComp.ge\Desktop\forkify\dist\favicon.f98b6865.png133342602842037089 0
+60C:\Users\GComp.ge\Desktop\forkify\dist\index.358b6e2c.js.map133342602845992592 0
+60C:\Users\GComp.ge\Desktop\forkify\dist\index.80f9aaf9.js.map133342602845992592 0
+61C:\Users\GComp.ge\Desktop\forkify\dist\index.bb84a947.css.map133342602845992592 0
+56C:\Users\GComp.ge\Desktop\forkify\dist\logo.8f52e69c.png133342602843127813 0
